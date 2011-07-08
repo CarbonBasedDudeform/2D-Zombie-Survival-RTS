@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie RTS", "Zombie RTS\Zombie RTS\Zombie RTS.csproj", "{945774C6-EB97-4FE3-8201-BB055F2F0F81}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Zombie RTSContent", "Zombie RTS\Zombie RTSContent\Zombie RTSContent.contentproj", "{202EDAA5-F967-42C3-B37D-45B3D1C13D06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945774C6-EB97-4FE3-8201-BB055F2F0F81}.Debug|x86.ActiveCfg = Debug|x86
+		{945774C6-EB97-4FE3-8201-BB055F2F0F81}.Debug|x86.Build.0 = Debug|x86
+		{945774C6-EB97-4FE3-8201-BB055F2F0F81}.Release|x86.ActiveCfg = Release|x86
+		{945774C6-EB97-4FE3-8201-BB055F2F0F81}.Release|x86.Build.0 = Release|x86
+		{202EDAA5-F967-42C3-B37D-45B3D1C13D06}.Debug|x86.ActiveCfg = Debug|x86
+		{202EDAA5-F967-42C3-B37D-45B3D1C13D06}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>builder.png</Source>
+      <Name>builder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\builder.xnb</Output>
+      <Time>2010-11-13T20:44:41.1917661+00:00</Time>
+    </Item>
+    <Item>
+      <Source>displayInfo.png</Source>
+      <Name>displayInfo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\displayInfo.xnb</Output>
+      <Time>2010-11-13T20:44:41.1947663+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hub.png</Source>
+      <Name>hub</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\hub.xnb</Output>
+      <Time>2010-11-13T20:44:41.2167675+00:00</Time>
+    </Item>
+    <Item>
+      <Source>maintainer.png</Source>
+      <Name>maintainer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\maintainer.xnb</Output>
+      <Time>2010-11-13T20:44:41.2197677+00:00</Time>
+    </Item>
+    <Item>
+      <Source>soldier.png</Source>
+      <Name>soldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\soldier.xnb</Output>
+      <Time>2010-11-13T20:44:41.2217678+00:00</Time>
+    </Item>
+    <Item>
+      <Source>worker.png</Source>
+      <Name>worker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\worker.xnb</Output>
+      <Time>2010-11-13T20:44:41.224768+00:00</Time>
+    </Item>
+    <Item>
+      <Source>zombie.png</Source>
+      <Name>zombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\zombie.xnb</Output>
+      <Time>2010-11-13T20:44:41.2267681+00:00</Time>
+    </Item>
+    <Item>
+      <Source>displayInfoFont.spritefont</Source>
+      <Name>displayInfoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\displayInfoFont.xnb</Output>
+      <Time>2010-11-13T20:45:15.4277243+00:00</Time>
+    </Item>
+    <Item>
+      <Source>rock.png</Source>
+      <Name>rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\rock.xnb</Output>
+      <Time>2010-11-14T01:41:11.4384109+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tree.png</Source>
+      <Name>tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\tree.xnb</Output>
+      <Time>2010-11-14T01:41:11.441411+00:00</Time>
+    </Item>
+    <Item>
+      <Source>food.png</Source>
+      <Name>food</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\food.xnb</Output>
+      <Time>2010-11-14T02:40:56.209448+00:00</Time>
+    </Item>
+    <Item>
+      <Source>water.png</Source>
+      <Name>water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\water.xnb</Output>
+      <Time>2010-11-14T02:50:27.203107+00:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain.png</Source>
+      <Name>terrain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\terrain.xnb</Output>
+      <Time>2010-11-14T02:56:30.1318654+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sentryBase.png</Source>
+      <Name>sentryBase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\sentryBase.xnb</Output>
+      <Time>2010-11-14T03:14:06.4122811+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sentryTop.png</Source>
+      <Name>sentryTop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\sentryTop.xnb</Output>
+      <Time>2010-11-14T03:14:06.4152813+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bittybullet.png</Source>
+      <Name>bittybullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\bittybullet.xnb</Output>
+      <Time>2010-11-14T03:14:28.7615594+00:00</Time>
+    </Item>
+    <Item>
+      <Source>wall.png</Source>
+      <Name>wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\wall.xnb</Output>
+      <Time>2010-11-14T17:33:44.4753776+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTSContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTSContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-11-13T18:13:02.1179547+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

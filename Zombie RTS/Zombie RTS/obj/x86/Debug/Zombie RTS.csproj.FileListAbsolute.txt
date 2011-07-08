@@ -1,0 +1,23 @@
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\builder.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\displayInfo.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\hub.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\maintainer.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\soldier.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\worker.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\zombie.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\displayInfoFont.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Zombie RTS.exe
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Zombie RTS.pdb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\obj\x86\Debug\Zombie RTS.exe
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\obj\x86\Debug\Zombie RTS.pdb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\rock.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\tree.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\food.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\water.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\terrain.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\sentryBase.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\sentryTop.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\bittybullet.xnb
+c:\users\dom\documents\visual studio 2010\Projects\Zombie RTS\Zombie RTS\Zombie RTS\bin\x86\Debug\Content\wall.xnb
